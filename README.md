@@ -2,6 +2,10 @@
 
 > A curated list of awesome succulent and cactus resources.
 
+## Identification
+- [Dan's Plants](http://cactusmandan.tumblr.com/) - Tumblr blog of a guy who helps identifying succulents and cacti.
+
+
 ## Communities
 
 ### Reddit
