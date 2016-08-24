@@ -9,10 +9,16 @@
 ## Books
 - [Succulents Simplified: Growing, Designing, and Crafting with 100 Easy-Care Varieties](https://www.amazon.com/dp/1604693932/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&colid=2YPBPQLCIVLWK&coliid=I1M5F7FK2IJS6W) - General book on all things succulents.
 
+## Propagation
+- [Propagating Succulents](https://needlesandleaves.squarespace.com/blog/2013/5/31/propagating-leggy-succulents) - A short article on propagating succulents from leaves with photos.
+
 ## Communities
 ### Reddit
 - [/r/succulents](https://www.reddit.com/r/succulents/) - Anything and everything about succulents.
 - [/r/cactus](https://www.reddit.com/r/cactus) - A community dedicated to the discussion of Cactaceae species and hybrids.
+
+### Blogs
+- [Needles + Leaves](http://needlesandleaves.net/succulents/) - Some well written articles on succulent care.
 
 ## Inspiration
 ### Tumblr
