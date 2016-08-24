@@ -7,6 +7,7 @@
 - [Cactustic!](http://cactustic.tumblr.com/) - Another Tumblr blog with advice and identification help.
 
 ## Books
+- [Succulents: Illustrated Dictionary](https://www.amazon.com/Succulents-Illustrated-Dictionary-Maurizio-Sajeva/dp/0881923982) - An illustrated dictionary book of succulents (excluding cacti)
 - [Succulents Simplified: Growing, Designing, and Crafting with 100 Easy-Care Varieties](https://www.amazon.com/dp/1604693932/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&colid=2YPBPQLCIVLWK&coliid=I1M5F7FK2IJS6W) - General book on all things succulents.
 
 ## Propagation
