@@ -15,6 +15,7 @@
 ### Encyclopedia 
 - [SucculentGuide](http://www.succulentguide.com/)
 - [CactiGuide](http://cactiguide.com/) - Huge list of all species
+- [Succulent-Plant](http://succulent-plant.com/) - Very old looking, but detailed website. Overview of all succulent families, huge gallery, and information on cultivation.
 - [LLIFE](http://www.llifle.com/Encyclopedia/SUCCULENTS/Content/) - Encyclopedia of all succulent species
 
 ## Propagation
