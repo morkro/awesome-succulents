@@ -12,6 +12,7 @@
 - [Succulents Simplified: Growing, Designing, and Crafting with 100 Easy-Care Varieties](https://www.amazon.com/dp/1604693932/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&colid=2YPBPQLCIVLWK&coliid=I1M5F7FK2IJS6W) - General book on all things succulents.
 
 ### Encyclopedia 
+- [SucculentGuide](http://www.succulentguide.com/)
 - [CactiGuide](http://cactiguide.com/) - Huge list of all species
 - [LLIFE](http://www.llifle.com/Encyclopedia/SUCCULENTS/Content/) - Encyclopedia of all succulent species
 
