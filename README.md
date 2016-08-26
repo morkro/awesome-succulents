@@ -36,3 +36,7 @@
 ### Instagram
 - [Succulent Love 💚 ](https://www.instagram.com/succulove/) - Photos of all kinds of succulents
 - [The Succulent Guy](https://www.instagram.com/thesucculentguy/) - Photos of all kinds of succulents
+
+----
+## License
+Cactus illustration by [freepik](http://www.freepik.com/free-vector/differents-kind-of-cactus-design_853547.htm).
