@@ -38,5 +38,9 @@
 - [The Succulent Guy](https://www.instagram.com/thesucculentguy/) - Photos of all kinds of succulents
 
 ----
+## Contribution
+All sorts of contributions are very welcome :cactus:
+
 ## License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 Cactus illustration by [freepik](http://www.freepik.com/free-vector/differents-kind-of-cactus-design_853547.htm).
