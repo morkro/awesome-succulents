@@ -1,10 +1,10 @@
-# awesome succulent [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://rawgit.com/morkro/awesome-succulents/master/media/cactus.svg" width="200" align="right" alt="cactus">
+# awesome succulents [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://rawgit.com/morkro/awesome-succulents/master/media/cactus.svg" width="200" align="right" alt="cactus">
 
 
 > A curated list of awesome succulent and cactus resources.
 
 ## Identification & Help
-- [Dan's Plants](http://cactusmandan.tumblr.com/) - Tumblr blog which helps identifying succulents and cacti and gives general advice.
+- [Dan's Plants](http://cactusmandan.tumblr.com/) - Dan is a very dedcated succulent collector/obsessor from Northern England who helps identifying succulents for everyone and giving all kinds of advice.
 - [Cactustic!](http://cactustic.tumblr.com/) - Another Tumblr blog with advice and identification help.
 
 ## Resources
@@ -18,12 +18,12 @@
 - [LLIFE](http://www.llifle.com/Encyclopedia/SUCCULENTS/Content/) - Encyclopedia of all succulent species
 
 ## Propagation
-- [Propagating Succulents](https://needlesandleaves.squarespace.com/blog/2013/5/31/propagating-leggy-succulents) - A short article on propagating succulents from leaves with photos.
+- [Propagating Succulents](https://needlesandleaves.squarespace.com/blog/2013/5/31/propagating-leggy-succulents) - A short, yet very helpful article on propagating succulents from leaves with photos.
 
 ## Communities
 ### Reddit
-- [/r/succulents](https://www.reddit.com/r/succulents/) - Anything and everything about succulents.
-- [/r/cactus](https://www.reddit.com/r/cactus) - A community dedicated to the discussion of Cactaceae species and hybrids.
+- [/r/succulents](https://www.reddit.com/r/succulents/) - Awesome community which helps in all kind of succulent related topics: identification, general advice, or just sharing photos of their own plant.
+- [/r/cactus](https://www.reddit.com/r/cactus) - Great community dedicated to the discussion of Cactaceae species and hybrids.
 
 ### Blogs
 - [Needles + Leaves](http://needlesandleaves.net/succulents/) - Some well written articles on succulent care.
