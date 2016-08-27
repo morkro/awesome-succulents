@@ -15,18 +15,16 @@ Succulents and cacti are very popular plants, but information on the internet is
 
 ---
 ## Identification & Advice
-_Helpful people who help identifying your plants and giving all kinds of good advice._
+_Awesome people who help identifying your plants and giving all kinds of good advice._
 
 - :computer: [Dan's Plants](http://cactusmandan.tumblr.com/) - Dan is a very dedicated succulent collector/obsessor from Northern England who helps identifying succulents for everyone and gives all kinds of advice.
 - :computer: [Cactustic!](http://cactustic.tumblr.com/) - This is a blog of two friends who help identifying your plants and give advice. They also post interesting photos of they own plants.
 
 ## Encyclopedia
-- :computer: [SucculentGuide](http://www.succulentguide.com/)
-- :computer: [CactiGuide](http://cactiguide.com/) - Huge list of all species
-- :green_book: [Succulents: Illustrated Dictionary](https://www.amazon.com/Succulents-Illustrated-Dictionary-Maurizio-Sajeva/dp/0881923982) - An illustrated dictionary book of succulents _(excluding cacti)_
-- :computer: [Succulent-Plant](http://succulent-plant.com/) - Very old looking, but detailed website. Overview of all succulent families, huge gallery, and information on cultivation.
-- :computer: [LLIFE](http://www.llifle.com/Encyclopedia/SUCCULENTS/Content/) - Encyclopedia of all succulent species
+- :computer: [Succulent-Plant](http://succulent-plant.com/succulent-plant-families.html) - A very detailed list of all succulent species with photos, descriptions and some trivia.
+- :computer: [LLIFE](http://www.llifle.com/Encyclopedia/SUCCULENTS/Content/) - Good encyclopedia covering all succulent species with photos, description and cultivation tips.
 - :green_book: [Cacti and Succulents](https://www.amazon.com/Cacti-Succulents-Illustrated-Encyclopedia-Anderson/dp/0754800288/ref=cm_cr_arp_d_product_top?ie=UTF8) - Illustrated encyclopedia
+- :green_book: [Succulents: Illustrated Dictionary](https://www.amazon.com/Succulents-Illustrated-Dictionary-Maurizio-Sajeva/dp/0881923982) - An illustrated dictionary book of succulents _(excluding cacti)_
 
 ## Cultivation
 _How to care for your plants._
@@ -38,7 +36,7 @@ _How to care for your plants._
 - :memo: [Propagating Succulents](https://needlesandleaves.squarespace.com/blog/2013/5/31/propagating-leggy-succulents) - A short, yet very helpful article on propagating succulents from leaves with photos.
 
 ### Pests & Diseases
-/
+- :memo: [CactiCare](http://cactiguide.com/cactipests/) - Good article which helps you diagnosing pests and diseases.
 
 ## Communities
 _Communities usually cover all topics from posting photos of their own plants to any kind of advice._
