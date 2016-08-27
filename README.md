@@ -1,7 +1,7 @@
 # awesome succulents [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://rawgit.com/morkro/awesome-succulents/master/media/cactus.svg" width="200" align="right" alt="cactus">
 
 
-> A curated list of awesome succulent and cactus resources.
+> A curated list of awesome succulent and cactus identification, cultivation, care, and advisory resources.
 
 - [Identification & Advice](#identification--advice)
 - [Encyclopedia](#encyclopedia)
@@ -9,7 +9,8 @@
  - [Propagation](#propagation)
 - [Communities](#communities)
 - [Inspiration](#inspiration)
- 
+
+---
 ## Identification & Advice
 - :computer: [Dan's Plants](http://cactusmandan.tumblr.com/) - Dan is a very dedcated succulent collector/obsessor from Northern England who helps identifying succulents for everyone and giving all kinds of advice.
 - :computer: [Cactustic!](http://cactustic.tumblr.com/) - Another Tumblr blog with advice and identification help.
