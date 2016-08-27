@@ -31,6 +31,8 @@ _Awesome people who help identifying your plants and giving all kinds of good ad
 _How to care for your plants._
 
 ### Growing
+- :memo: [How to Grow a Cactus From Seeds](http://www.wikihow.com/Grow-a-Cactus) - Detailed article with illustrations for each step on how to grow cacti from seeds.
+- :memo: [Raising Cacti From Seed](http://cactiguide.com/article/?article=article21.php) - Another article on growing cacti from seed, but with real photos and a slightly different approach.
 - :memo: [How To Grow Succulents in Artificial Light](https://needlesandleaves.squarespace.com/blog/2015/11/4/how-to-grow-succulents-in-artificial-light) - Detailed article from expert Ben Thorton which covers all topics around growing succulents in artificial light.
 - :green_book: [Succulents Simplified: Growing, Designing, and Crafting with 100 Easy-Care Varieties](https://www.amazon.com/dp/1604693932/) - Recommended book by the community on growing and crafting succulents.
 
