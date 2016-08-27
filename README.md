@@ -15,10 +15,12 @@ Succulents and cacti are very popular plants, but information on the internet is
 
 ---
 ## Identification & Advice
+_Helpful people who help identifying your plants and giving all kinds of good advice._
+
 - :computer: [Dan's Plants](http://cactusmandan.tumblr.com/) - Dan is a very dedicated succulent collector/obsessor from Northern England who helps identifying succulents for everyone and gives all kinds of advice.
 - :computer: [Cactustic!](http://cactustic.tumblr.com/) - This is a blog of two friends who help identifying your plants and give advice. They also post interesting photos of they own plants.
 
-## Encyclopedia 
+## Encyclopedia
 - :computer: [SucculentGuide](http://www.succulentguide.com/)
 - :computer: [CactiGuide](http://cactiguide.com/) - Huge list of all species
 - :green_book: [Succulents: Illustrated Dictionary](https://www.amazon.com/Succulents-Illustrated-Dictionary-Maurizio-Sajeva/dp/0881923982) - An illustrated dictionary book of succulents _(excluding cacti)_
@@ -27,7 +29,9 @@ Succulents and cacti are very popular plants, but information on the internet is
 - :green_book: [Cacti and Succulents](https://www.amazon.com/Cacti-Succulents-Illustrated-Encyclopedia-Anderson/dp/0754800288/ref=cm_cr_arp_d_product_top?ie=UTF8) - Illustrated encyclopedia
 
 ## Cultivation
-- [How To Grow Succulents in Artificial Light](https://needlesandleaves.squarespace.com/blog/2015/11/4/how-to-grow-succulents-in-artificial-light) - Detailed article from expert Ben Thorton which covers all topics around growing succulents in artificial light.
+_How to care for your plants._
+
+- :memo: [How To Grow Succulents in Artificial Light](https://needlesandleaves.squarespace.com/blog/2015/11/4/how-to-grow-succulents-in-artificial-light) - Detailed article from expert Ben Thorton which covers all topics around growing succulents in artificial light.
 - :green_book: [Succulents Simplified: Growing, Designing, and Crafting with 100 Easy-Care Varieties](https://www.amazon.com/dp/1604693932/) - Recommended book by the community on growing and crafting succulents.
 
 ### Propagation
@@ -37,13 +41,17 @@ Succulents and cacti are very popular plants, but information on the internet is
 /
 
 ## Communities
+_Communities usually cover all topics from posting photos of their own plants to any kind of advice._
+
 #### Reddit 
 - :computer: [/r/succulents](https://www.reddit.com/r/succulents/) - Awesome community which helps in all kind of succulent related topics: identification, general advice, or just sharing photos of their own plant.
 - :computer: [/r/cactus](https://www.reddit.com/r/cactus) - Great community dedicated to the discussion of Cactaceae species and hybrids.
 
 ## Inspiration
+_Some good inspiration for arranging your plants or just looking at beautiful succulents._
+
 - [cactusandsucculents](http://cactusandsucculent.tumblr.com/) - Lots of photos of cacti and succulents
-- [happy succulents](http://happysucculents.tumblr.com/) - Also a photo blog but gives also advice
+- :computer: [happy succulents](http://happysucculents.tumblr.com/) - Tumblr blog with beautiful photos and all kinds of advice.
 - [Succulent Love 💚 ](https://www.instagram.com/succulove/) - Photos of all kinds of succulents
 - [The Succulent Guy](https://www.instagram.com/thesucculentguy/) - Photos of all kinds of succulents
 
