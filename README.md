@@ -50,10 +50,10 @@ _Communities usually cover all topics from posting photos of their own plants to
 ## Inspiration
 _Some good inspiration for arranging your plants or just looking at beautiful succulents._
 
-- [cactusandsucculents](http://cactusandsucculent.tumblr.com/) - Lots of photos of cacti and succulents
+- :computer: [cactusandsucculents](http://cactusandsucculent.tumblr.com/) - Lots of photos of cacti and succulents
 - :computer: [happy succulents](http://happysucculents.tumblr.com/) - Tumblr blog with beautiful photos and all kinds of advice.
-- [Succulent Love 💚 ](https://www.instagram.com/succulove/) - Photos of all kinds of succulents
-- [The Succulent Guy](https://www.instagram.com/thesucculentguy/) - Photos of all kinds of succulents
+- :computer: [Succulent Love](https://www.instagram.com/succulove/) - Instagram account of all sorts of succulent arrangements.
+- :computer: [The Succulent Guy](https://www.instagram.com/thesucculentguy/) - Instagram account of a succulent vendor, posts beatiful photos of his plants.
 
 ----
 ## Legend
