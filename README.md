@@ -8,6 +8,7 @@ Succulents and cacti are very popular plants, but information on the internet is
 - [Identification & Advice](#identification--advice)
 - [Encyclopedia](#encyclopedia)
 - [Cultivation](#cultivation)
+ - [Growing](#growing)
  - [Propagation](#propagation)
  - [Pests & Diseases](#pests--diseases)
 - [Communities](#communities)
@@ -29,6 +30,7 @@ _Awesome people who help identifying your plants and giving all kinds of good ad
 ## Cultivation
 _How to care for your plants._
 
+### Growing
 - :memo: [How To Grow Succulents in Artificial Light](https://needlesandleaves.squarespace.com/blog/2015/11/4/how-to-grow-succulents-in-artificial-light) - Detailed article from expert Ben Thorton which covers all topics around growing succulents in artificial light.
 - :green_book: [Succulents Simplified: Growing, Designing, and Crafting with 100 Easy-Care Varieties](https://www.amazon.com/dp/1604693932/) - Recommended book by the community on growing and crafting succulents.
 
