@@ -3,37 +3,43 @@
 
 > A curated list of awesome succulent and cactus identification, cultivation, care, and advisory resources.
 
+Succulents and cacti are very popular plants, but information on the internet is wide-spread and sometimes hard to find. As a succulent collector myself I search almost daily for specific topics regarding the care of my plants. This list aims to keep all the good resources together and make growing plants easier.
+
 - [Identification & Advice](#identification--advice)
 - [Encyclopedia](#encyclopedia)
 - [Cultivation](#cultivation)
  - [Propagation](#propagation)
+ - [Pests & Diseases](#pests--diseases)
 - [Communities](#communities)
 - [Inspiration](#inspiration)
 
 ---
 ## Identification & Advice
-- :computer: [Dan's Plants](http://cactusmandan.tumblr.com/) - Dan is a very dedcated succulent collector/obsessor from Northern England who helps identifying succulents for everyone and giving all kinds of advice.
-- :computer: [Cactustic!](http://cactustic.tumblr.com/) - Another Tumblr blog with advice and identification help.
+- :computer: [Dan's Plants](http://cactusmandan.tumblr.com/) - Dan is a very dedicated succulent collector/obsessor from Northern England who helps identifying succulents for everyone and gives all kinds of advice.
+- :computer: [Cactustic!](http://cactustic.tumblr.com/) - This is a blog of two friends who help identifying your plants and give advice. They also post interesting photos of they own plants.
 
-### Encyclopedia 
+## Encyclopedia 
 - :computer: [SucculentGuide](http://www.succulentguide.com/)
 - :computer: [CactiGuide](http://cactiguide.com/) - Huge list of all species
-- :green_book: [Succulents: Illustrated Dictionary](https://www.amazon.com/Succulents-Illustrated-Dictionary-Maurizio-Sajeva/dp/0881923982) - An illustrated dictionary book of succulents (excluding cacti)
+- :green_book: [Succulents: Illustrated Dictionary](https://www.amazon.com/Succulents-Illustrated-Dictionary-Maurizio-Sajeva/dp/0881923982) - An illustrated dictionary book of succulents _(excluding cacti)_
 - :computer: [Succulent-Plant](http://succulent-plant.com/) - Very old looking, but detailed website. Overview of all succulent families, huge gallery, and information on cultivation.
 - :computer: [LLIFE](http://www.llifle.com/Encyclopedia/SUCCULENTS/Content/) - Encyclopedia of all succulent species
 - :green_book: [Cacti and Succulents](https://www.amazon.com/Cacti-Succulents-Illustrated-Encyclopedia-Anderson/dp/0754800288/ref=cm_cr_arp_d_product_top?ie=UTF8) - Illustrated encyclopedia
 
 ## Cultivation
-- :memo: [Needles + Leaves](http://needlesandleaves.net/succulents/) - Some well written articles on succulent care.
+- [How To Grow Succulents in Artificial Light](https://needlesandleaves.squarespace.com/blog/2015/11/4/how-to-grow-succulents-in-artificial-light) - Detailed article from expert Ben Thorton which covers all topics around growing succulents in artificial light.
+- :green_book: [Succulents Simplified: Growing, Designing, and Crafting with 100 Easy-Care Varieties](https://www.amazon.com/dp/1604693932/) - Recommended book by the community on growing and crafting succulents.
 
 ### Propagation
 - :memo: [Propagating Succulents](https://needlesandleaves.squarespace.com/blog/2013/5/31/propagating-leggy-succulents) - A short, yet very helpful article on propagating succulents from leaves with photos.
-- :green_book: [Succulents Simplified: Growing, Designing, and Crafting with 100 Easy-Care Varieties](https://www.amazon.com/dp/1604693932/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&colid=2YPBPQLCIVLWK&coliid=I1M5F7FK2IJS6W) - General book on all things succulents.
+
+### Pests & Diseases
+/
 
 ## Communities
-### Reddit
-- [/r/succulents](https://www.reddit.com/r/succulents/) - Awesome community which helps in all kind of succulent related topics: identification, general advice, or just sharing photos of their own plant.
-- [/r/cactus](https://www.reddit.com/r/cactus) - Great community dedicated to the discussion of Cactaceae species and hybrids.
+#### Reddit 
+- :computer: [/r/succulents](https://www.reddit.com/r/succulents/) - Awesome community which helps in all kind of succulent related topics: identification, general advice, or just sharing photos of their own plant.
+- :computer: [/r/cactus](https://www.reddit.com/r/cactus) - Great community dedicated to the discussion of Cactaceae species and hybrids.
 
 ## Inspiration
 - [cactusandsucculents](http://cactusandsucculent.tumblr.com/) - Lots of photos of cacti and succulents
@@ -45,10 +51,10 @@
 ## Legend
 - :green_book: - resource is a book
 - :memo: - resource is an article
-- :computer: - resource is a website
+- :computer: - resource is a website or blog
 
 ## Contribution
-All sorts of contributions are very welcome :cactus:
+All sorts of contributions are very welcome :cactus: Let's make this awesome together!
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
