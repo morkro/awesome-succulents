@@ -38,6 +38,7 @@ _How to care for your plants._
 
 ### Propagation
 - :memo: [Propagating Succulents](https://needlesandleaves.squarespace.com/blog/2013/5/31/propagating-leggy-succulents) - A short, yet very helpful article on propagating succulents from leaves with photos.
+- :memo: [Propagate Succulents from Leaves](http://www.wikihow.com/Propagate-Succulents-from-Leaves) - Another article on propagating succulents from leaves with illustrations.
 
 ### Pests & Diseases
 - :memo: [CactiCare](http://cactiguide.com/cactipests/) - Good article which helps you diagnosing pests and diseases.
