@@ -5,6 +5,13 @@
 
 Succulents and cacti are very popular plants, but information on the internet is wide-spread and sometimes hard to find. As a succulent collector myself I search almost daily for specific topics regarding the care of my plants. This list aims to keep all the good resources together and make growing plants easier.
 
+**Legend:**
+- :green_book: - resource is a book
+- :memo: - resource is an article
+- :computer: - resource is a website or blog
+
+## Contents 
+
 - [Identification & Advice](#identification--advice)
 - [Encyclopedia](#encyclopedia)
 - [Cultivation](#cultivation)
@@ -13,6 +20,8 @@ Succulents and cacti are very popular plants, but information on the internet is
  - [Pests & Diseases](#pests--diseases)
 - [Communities](#communities)
 - [Inspiration](#inspiration)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 ## Identification & Advice
@@ -59,12 +68,7 @@ _Some good inspiration for arranging your plants or just looking at beautiful su
 - :computer: [The Succulent Guy](https://www.instagram.com/thesucculentguy/) - Instagram account of a succulent vendor, posts beatiful photos of his plants.
 
 ----
-## Legend
-- :green_book: - resource is a book
-- :memo: - resource is an article
-- :computer: - resource is a website or blog
-
-## Contribution
+## Contributing
 All sorts of contributions are very welcome :cactus: Let's make this awesome together!
 
 ## License
